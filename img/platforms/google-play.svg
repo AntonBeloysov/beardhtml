@@ -1,0 +1,45 @@
+<svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect width="30" height="30" fill="url(#pattern0)"/>
+<mask id="mask0_418_2824" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="30" height="30">
+<rect width="30" height="30" fill="url(#pattern1)"/>
+</mask>
+<g mask="url(#mask0_418_2824)">
+<rect width="30" height="30" fill="url(#pattern2)"/>
+</g>
+<mask id="mask1_418_2824" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="30" height="30">
+<rect width="30" height="30" fill="url(#pattern3)"/>
+</mask>
+<g mask="url(#mask1_418_2824)">
+<rect width="30" height="30" fill="url(#pattern4)"/>
+</g>
+<mask id="mask2_418_2824" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="30" height="30">
+<rect width="30" height="30" fill="url(#pattern5)"/>
+</mask>
+<g mask="url(#mask2_418_2824)">
+<rect width="30" height="30" fill="url(#pattern6)"/>
+</g>
+<defs>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_418_2824" transform="scale(0.0333333)"/>
+</pattern>
+<pattern id="pattern1" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_418_2824" transform="scale(0.0333333)"/>
+</pattern>
+<pattern id="pattern2" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_418_2824" transform="scale(0.0333333)"/>
+</pattern>
+<pattern id="pattern3" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_418_2824" transform="scale(0.0333333)"/>
+</pattern>
+<pattern id="pattern4" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_418_2824" transform="scale(0.0333333)"/>
+</pattern>
+<pattern id="pattern5" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_418_2824" transform="scale(0.0333333)"/>
+</pattern>
+<pattern id="pattern6" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_418_2824" transform="scale(0.0333333)"/>
+</pattern>
+<image id="image0_418_2824" width="30" height="30" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAACXBIWXMAAAsTAAALEwEAmpwYAAAByElEQVR4nO3WTYiPURTH8Q+KvBRlNN5S0oQFG7ObsiCWUpZq/G1Y2UsWU7KQYSVlM43XjbJSbKQkRXlJFlLeFuS1yGAYY3TryO0p5m+6z7OaXz09Peec+p577nnOvUzqj+ZioYa1GG8xigEsaAq8HWPZ8x67MbVucCuAnysJ3MK6JsAHcbECT+U/hY46wX2YiasZ+Gu8X2MHptQFTpqDG2G7hzOx8vR9DWvUBE6ah9thT+Vfj7vx/R39kWBxsNjXB+G7gOnYhY9he4leNYCTFuFR+E/GL5Zs57I+uIwuhcFJy/AsYo5Hg23DSAYfxoFozmLgpBV4kZX9G35EqfdlM+AJNpcEJ63Gm4j9iZ2VqpwP3wiWlgT3YCgr7/7MtxbXwz7U7rxvB9yNDxF3IktgL45k+33nf8bseOA0MN5VYjZWmisltQfT2oWOB16JV+E/HLZVuJLt9emJnuWtv4Dz3+gYZkXMcNgeYtNEgP8CL8HjsA9iC55mzdMXk0xJcGesJtlu4lK2l2djchVRKwPPx/0M9LuBUiIbSgGr4KNx68gvAl8ioRlqUKuyurHsOFyuRvVWgM+xVQPqwqcY/IcwW4PqiFvHpJTQLxSRsiGBWxMSAAAAAElFTkSuQmCC"/>
+</defs>
+</svg>
